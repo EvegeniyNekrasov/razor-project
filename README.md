@@ -1,1 +1,3 @@
-# razor-project
+# Learning dotnet Razor
+
+### Starting to learn dotnet technology
